@@ -1,1 +1,77 @@
+{
+  "FirstName": "Kruthika",
+  "LastName": "Surampalli",
 
+  "ProfilePicture": "",
+
+  "Address": "69-55 Mandamarri, Mancherial, Telangana, India",
+  "City": "Mandamarri",
+  "Country": "India",
+  "PostalCode": "504321",
+
+  "Email": "kruthikasurampalli@gmail.com",
+
+  "About": "I",
+
+  "Education": [
+    {
+      "Degree": "Bachelor of Technology",
+      "FieldOfStudy": "Computer Science & Engineering(AIML)",
+      "Institute": "Sridevi Women's Engineering College",
+      "UniversityOrBoard": "JNTUH University",
+      "StartYear": "2025",
+      "EndYear": "2028",
+      "Location": "vattinagulapally, Telangana",
+      "GraduationYear": "2028"
+    },
+    {
+      "Degree": "Diploma",
+      "FieldOfStudy": "Computer Science and Engineering",
+      "Institute": "Samskruti College of Engineering and Technology",
+      "UniversityOrBoard": "State Board of technical Education and Training",
+      "StartYear": "2022",
+      "EndYear": "2025",
+      "Location": "Ghatkesar, Telangana",
+      "GraduationYear": "2025"
+    },
+    {
+      "Degree": "X",
+      "FieldOfStudy": "General",
+      "Institute": "T.S Model School",
+      "UniversityOrBoard": "State Board",
+      "StartYear": "2018",
+      "EndYear": "2022",
+      "Location": "Mandamarri, Telangana",
+      "GraduationYear": "2022"
+    }
+  ],
+
+  "Skills": [
+    {
+      "category": "Programming Language",
+      "skills": ["Python"]
+    },
+    {
+      "category": "Database",
+      "skills": ["MySQL"]
+    },
+    
+    {
+      "category": "Tools",
+      "skills": ["VS Code"]
+    }
+  ],
+
+  "Hobbies": [
+    "Reading",
+    "Coding",
+    "Dancing",
+    "Listening Music"
+  ],
+
+  "Languages": [
+    "English",
+    "Telugu"
+  ]
+
+}
